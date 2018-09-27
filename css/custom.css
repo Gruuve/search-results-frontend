@@ -1,0 +1,110 @@
+.temp {
+    /*font-family: 'Francois One', sans-serif;*/
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+
+.subtag {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 45px;
+}
+
+body {
+    background: url("https://raw.githubusercontent.com/Gruuve/engine-homepage/master/images/backimg1.png");
+    background-position: absolute; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+
+
+
+
+  .clear1 {
+    clear:both;
+  }
+  .card1 {
+    width:25em;
+    height: 14em;
+    background: #fff;
+    margin:2em auto;
+    border-radius: .2em;
+    padding-top:1em;
+    padding-left: 1em;
+    padding-right:1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .city1 {
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 1.8em;
+    color:#5b5b5b;
+  }
+  .menu1 {
+    float: right;
+    font-family: Roboto;
+    font-size:.5em;
+    color:#5b5b5b;
+    margin-top:-.09em;
+    margin-right:-2em;
+    list-style:square;
+  }
+  .sun1 {
+    width:4em;
+    height:4em;
+    border-radius: 2.5em;
+    background: #FBD80A;
+    margin-top: 1em;
+  }
+  .temp1 {
+    float:right;
+    font-family:Roboto;
+    font-weight: 300;
+    font-size: 8.5em;
+    margin-top:-.75em;
+    color:#5b5b5b;
+  }
+  .variations1 {
+    font-family:Roboto;
+    font-wight:300;
+    color:#8c8c8c;
+    list-style:none;
+    margin-left:-2em;
+  }
+  .mph1 {
+     font-size:.8em;
+  }
+  .speed:before1 {
+    content:url('https://i.imgur.com/luN0Jmq.png');
+  }
+  .forecast1 {
+    width:100%;
+    margin:0 auto;
+  }
+  .day1 {
+    display:block;
+    width: 21.5%;
+    height:9em;
+    float:left;
+    margin: 0 .375em .5em;
+    text-align:center;
+    font-family:Roboto;
+    color: #5b5b5b;
+    border-right:.1em solid #d9d9d9;
+    line-height: 2;
+  }
+  .fri1 {
+    border-right:none;
+  }
+  .highTemp1 {
+    font-weight:bold;
+  }
+  .lowTemp1 {
+    color: #8c8c8c;
+  }
+  .cloudy1 {
+    content: url('https://i.imgur.com/0PIYfV8.png');
+  }
+  .sunny1 {
+    content: url('https://i.imgur.com/RdBr2SD.png');
+  }
